@@ -1,4 +1,4 @@
-FROM php:7.4-apache-alpine
+FROM php:8.0-apache-alpine
 
 COPY . /var/www/php
 WORKDIR /var/www/php
