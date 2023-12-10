@@ -18,7 +18,7 @@ class LogicOperators extends Controller
     }
 
     /**
-     * Undocumented function
+     * return result
      *
      * @return boolean
      */
